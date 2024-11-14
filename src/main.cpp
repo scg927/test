@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int a = 5;
+	int a = 6;
 	int b = 4;
 	int c;
 	c = myAdd(a, b);
